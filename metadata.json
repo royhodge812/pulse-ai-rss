@@ -1,0 +1,5 @@
+{
+  "name": "Pulse AI - Intelligent Feed Reader",
+  "description": "A next-generation RSS reader and feed creator. Curate standard RSS feeds or generate dynamic 'Virtual Feeds' powered by Gemini AI and Google Search Grounding. Features AI summarization, chat-with-article, and daily smart digests.",
+  "requestFramePermissions": []
+}
